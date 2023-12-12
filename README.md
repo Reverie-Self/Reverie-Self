@@ -9,6 +9,9 @@
   </tr>
 </table>
 
+<h2 align = "center">Thanks for dropping by!</h2>
+<p id="intro" align="center">Insert totally awesome intro that makes you want to hire me :D</p>
+
 
 <!--
 **Reverie-Self/Reverie-Self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
