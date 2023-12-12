@@ -1,5 +1,5 @@
 ## Welcome👋
-<div align="right"> ![MotivationIcon](xtra/reverie.png)</div>
+<img src="xtra/reverie.png">
 
 <!--
 **Reverie-Self/Reverie-Self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
