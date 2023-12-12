@@ -4,7 +4,7 @@
       <img src="xtra/reverie.png" width="400" height="400">
     </td>
     <td>
-      <img src="xtra/mainmd.png" width="400" height="400">
+      <img src="xtra/Welcome.png" width="400" height="400">
     </td>
   </tr>
 </table>
