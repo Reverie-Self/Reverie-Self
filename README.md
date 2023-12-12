@@ -1,4 +1,5 @@
-## Welcome👋 <img src="xtra/reverie.png" width="400" height="400">
+<img src="xtra/reverie.png" width="400" height="400">
+<img src="xtra/reverie.png" width="400" height="400">
 
 <!--
 **Reverie-Self/Reverie-Self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
