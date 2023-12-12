@@ -1,9 +1,14 @@
-<button>
-<img src="xtra/reverie.png" width="400" height="400">
-</button>
-<button>
-<img src="xtra/reverie.png" width="400" height="400">
-</button>
+<table>
+  <tr>
+    <td>
+      <img src="xtra/reverie.png" width="400" height="400">
+    </td>
+    <td>
+      <img src="xtra/reverie.png" width="400" height="400">
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **Reverie-Self/Reverie-Self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
